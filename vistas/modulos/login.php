@@ -10,7 +10,7 @@
 
   <div class="login-box-body">
 
-    <p class="login-box-msg">Ingresar al sistema</p>
+    <p class="login-box-msg">Ingresar al Sistema</p>
 
     <form method="post">
 

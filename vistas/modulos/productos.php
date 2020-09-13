@@ -61,7 +61,7 @@ if($_SESSION["perfil"] == "Vendedor"){
            <th>Descripción</th>
            <th>Categoría</th>
            <th>Stock</th>
-           <th>Precio de compra</th>
+           <th>Precio de alquiler</th>
            <th>Precio de venta</th>
            <th>Agregado</th>
            <th>Acciones</th>

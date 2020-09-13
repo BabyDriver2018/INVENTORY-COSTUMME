@@ -46,7 +46,7 @@
            <th>Descripción</th>
            <th>Categoría</th>
            <th>Stock</th>
-           <th>Precio de compra</th>
+           <th>Precio de alquiler</th>
            <th>Precio de venta</th>
            <th>Agregado</th>
            <th>Acciones</th>
@@ -55,84 +55,7 @@
 
         </thead>
 
-        <tbody>
-          
-          <tr>
-            <td>1</td>
-            <td><img src="vistas/img/productos/default/anonymous.png" class="img-thumbnail" width="40px"></td>
-            <td>0001</td>
-            <td>Lorem ipsum dolor sit amet</td>
-            <td>Lorem Ipsum</td>
-            <td>20</td>
-            <td>$ 5.00</td>
-            <td>$ 10.00</td>
-            <td>2017-12-11 12:05:32</td>
-            <td>
-
-              <div class="btn-group">
-                  
-                <button class="btn btn-warning"><i class="fa fa-pencil"></i></button>
-
-                <button class="btn btn-danger"><i class="fa fa-times"></i></button>
-
-              </div>  
-
-            </td>
-
-          </tr>
-
-           <tr>
-
-            <td>1</td>
-            <td><img src="vistas/img/productos/default/anonymous.png" class="img-thumbnail" width="40px"></td>
-            <td>0001</td>
-            <td>Lorem ipsum dolor sit amet</td>
-            <td>Lorem Ipsum</td>
-            <td>20</td>
-            <td>$ 5.00</td>
-            <td>$ 10.00</td>
-            <td>2017-12-11 12:05:32</td>
-            <td>
-
-              <div class="btn-group">
-                  
-                <button class="btn btn-warning"><i class="fa fa-pencil"></i></button>
-
-                <button class="btn btn-danger"><i class="fa fa-times"></i></button>
-
-              </div>  
-
-            </td>
-
-          </tr>
-
-          <tr>
-            <td>1</td>
-            <td><img src="vistas/img/productos/default/anonymous.png" class="img-thumbnail" width="40px"></td>
-            <td>0001</td>
-            <td>Lorem ipsum dolor sit amet</td>
-            <td>Lorem Ipsum</td>
-            <td>20</td>
-            <td>$ 5.00</td>
-            <td>$ 10.00</td>
-            <td>2017-12-11 12:05:32</td>
-            <td>
-
-              <div class="btn-group">
-                  
-                <button class="btn btn-warning"><i class="fa fa-pencil"></i></button>
-
-                <button class="btn btn-danger"><i class="fa fa-times"></i></button>
-
-              </div>  
-
-            </td>
-
-          </tr>
-
-
-
-        </tbody>
+        
 
        </table>
 
@@ -252,7 +175,7 @@ MODAL AGREGAR PRODUCTO
                   
                     <span class="input-group-addon"><i class="fa fa-arrow-up"></i></span> 
 
-                    <input type="number" class="form-control input-lg" name="nuevoPrecioCompra" min="0" placeholder="Precio de compra" required>
+                    <input type="number" class="form-control input-lg" name="nuevoPrecioCompra" min="0" placeholder="Precio de alquiler" required>
 
                   </div>
 
